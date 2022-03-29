@@ -2,6 +2,7 @@
 using namespace std ;
 int main()
 {
-cout << "first" << endl;
+cout << "master" ;
+  cout << "master-f" << endl;
 return 0;
 }
