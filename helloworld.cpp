@@ -2,6 +2,6 @@
 using namespace std ;
 int main()
 {
-cout << "first" << endl;
+cout << "master" << endl;
 return 0;
 }
